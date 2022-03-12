@@ -13,6 +13,12 @@
 ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+<a href="https://instagram.com/seo_young2171">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/seo_young2171/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoyoung&theme=tokyonight&show_icons=true)
 <!--
 **SeoyoungOhMe/SeoyoungOhMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
