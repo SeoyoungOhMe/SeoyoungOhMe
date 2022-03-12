@@ -6,7 +6,7 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) <a href="https://instagram.com/seo_young2171">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/seo_young2171/"
-        style="height : auto; margin-left : 70px; margin-right : 70px;"/>
+        style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a> 
 <!--![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)-->
 
