@@ -7,7 +7,8 @@
 </div>
 
 ## <div align="center">📱SNS List📱</div>
-
+<div align=center>
+    
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) <a href="https://instagram.com/seo_young2171">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/seo_young2171/"
@@ -15,10 +16,12 @@
 </a> 
 <!--![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)-->
 
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoyoung&theme=tokyonight&show_icons=true)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-    
+
 <!--
 **SeoyoungOhMe/SeoyoungOhMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
