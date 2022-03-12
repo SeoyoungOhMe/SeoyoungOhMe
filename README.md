@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&text=SeoyoungOh&animation=fadeIn&fontAlign=70&fontAlignY=55)
 
 <!--
 **SeoyoungOhMe/SeoyoungOhMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
