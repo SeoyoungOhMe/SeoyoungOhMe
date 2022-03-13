@@ -3,7 +3,7 @@
 <div align=center>
     
 🔒Cyber Security at Ewha W. Univ. 21'   
-🖥️Google Developer Student Club Ewha `2021.03~`
+🖥️Google Developer Student Clubs Ewha `2021.03~`
     
 </div>
 
