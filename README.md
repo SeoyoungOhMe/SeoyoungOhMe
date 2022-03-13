@@ -1,4 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&text=SeoyoungOh&animation=fadeIn&fontAlign=70&fontAlignY=55)
+## <div align="center">🔭experience🔭</div>
+<div align=center>
+    
++ Cyber Security at Ewha W. Univ. 21'
++ Google Development School Club Ewha 3rd Member(2021.03~)
+    
+</div>
+
 ## <div align="center">⚒️Tech Stack⚒️</div>
 <div align=center>
 
