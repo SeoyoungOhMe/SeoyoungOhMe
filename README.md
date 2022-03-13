@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&text=SeoyoungOh&animation=fadeIn&fontAlign=70&fontAlignY=55)
-## <div align="center">🔭experience🔭</div>
+## <div align="center">🔭Experience🔭</div>
 <div align=center>
     
 🔒Cyber Security at Ewha W. Univ. 21'   
@@ -14,7 +14,7 @@
 
 </div>
 
-## <div align="center">📱SNS List📱</div>
+## <div align="center">📱Contact Me📱</div>
 <div align=center>
     
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) <a href="https://instagram.com/seo_young2171">
