@@ -2,8 +2,8 @@
 ## <div align="center">🔭experience🔭</div>
 <div align=center>
     
-+ Cyber Security at Ewha W. Univ. 21'
-+ Google Development School Club Ewha 3rd Member(2021.03~)
+🔒Cyber Security at Ewha W. Univ. 21'
+🖥️Google Development School Club Ewha 3rd Member(2021.03~)
     
 </div>
 
