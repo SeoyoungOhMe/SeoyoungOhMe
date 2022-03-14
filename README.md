@@ -18,7 +18,7 @@
 ## <div align="center">📱Me📱</div>
 <div align=center>
     
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) <a href="https://instagram.com/seo_young2171">
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <a href="https://instagram.com/seo_young2171">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/seo_young2171/"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
