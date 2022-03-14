@@ -24,10 +24,10 @@
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a> <a href="https://alpox.kr">
     <img 
-        src="http://img.shields.io/badge/-Velog-success?style=flat&logo=Velog&link=https://velog.io/@seoyoung"
+        src="http://img.shields.io/badge/-Velog-success?style=for-the-badge&logo=Velog&link=https://velog.io/@seoyoung"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<!--![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)-->  
+<!--![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)-->  
 
 
 </div>
