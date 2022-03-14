@@ -24,7 +24,7 @@
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a> <a href="https://alpox.kr">
     <img 
-        src="http://img.shields.io/badge/-Velog-20C997?style=for-the-badge&logo=Velog&link=https://velog.io/@seoyoung"
+        src="http://img.shields.io/badge/-Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@seoyoung"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 </div>
