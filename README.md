@@ -15,7 +15,7 @@
 
 </div>
 
-## <div align="center">📱Contact Me📱</div>
+## <div align="center">📱Me📱</div>
 <div align=center>
     
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) <a href="https://instagram.com/seo_young2171">
