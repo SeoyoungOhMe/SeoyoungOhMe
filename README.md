@@ -20,7 +20,7 @@
     
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <a href="https://instagram.com/seo_young2171">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/seo_young2171/"
+        src="http://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/seo_young2171/"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a> <a href="https://alpox.kr">
     <img 
