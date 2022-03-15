@@ -5,7 +5,7 @@
     
 🔒Cyber Security at Ewha W. Univ. 21'   
 🖥️Google Developer Student Clubs Ewha `2021.03~`   
-💰Start-up Club UNIS `2021.03~`
+💡Start-up Club UNIS `2021.03~`
     
 </div>
 
