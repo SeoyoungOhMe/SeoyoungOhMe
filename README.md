@@ -4,7 +4,7 @@
 <div align=center>
     
 🔒Cyber Security at Ewha W. Univ. 21'   
-🖥️Google Developer Student Clubs Ewha `2021.03~`   
+🖥️GDSC(Google Developer Student Clubs Ewha) `2021.03~`   
 💡UNIS(Start-up Club Ewha) `2021.03~`
     
 </div>
