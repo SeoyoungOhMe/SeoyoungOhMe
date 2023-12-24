@@ -25,11 +25,13 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/seo_young2171/"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a> <a href="https://velog.io/@seoyoung">
+</a> 
+<!--
+<a href="https://velog.io/@seoyoung">
     <img 
         src="http://img.shields.io/badge/-Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@seoyoung"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
+-->
 </div>
 
 
