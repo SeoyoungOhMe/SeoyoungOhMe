@@ -5,23 +5,33 @@
     
 🔒Cyber Security at Ewha W. Univ. 21'   
 🖥️GDSC (Google Developer Student Clubs Ewha) `2021.03~2021.07`   
-💡UNIS (Start-up Club Ewha) `2021.03~2021.07`
+💡UNIS (Start-up Club Ewha) `2021.03~2021.07`   
+✈️SKT FLY AI Challenger 4기 `2023.12~2024.02`   
     
 </div>
 
 ## <div align="center">⚒️Tech Stack⚒️</div>
 <div align=center>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)      ![C++](https://img.shields.io/badge/C++-yellow.svg?style=for-the-badge&logo=cplusplus&logoColor=white)    
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)     ![TypeScript](https://img.shields.io/badge/TypeScript-white.svg?style=for-the-badge&logo=TypeScript&logoColor=#3178C6)     ![React](https://img.shields.io/badge/React-%2300599C.svg?style=for-the-badge&logo=React&logoColor=#61DAFB)     ![ReactNative](https://img.shields.io/badge/ReactNative-%23ED8B00.svg?style=for-the-badge&logo=ReactNative&logoColor=white) 
+
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-%23FF9A00.svg?style=for-the-badge&logo=Figma&logoColor=white)    ![microsoftazure](https://img.shields.io/badge/microsoftazure-blue.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)    ![Notion](https://img.shields.io/badge/Notion-%2300599C.svg?style=for-the-badge&logo=Notion&logoColor=#61DAFB)     
+
 
 </div>
 
 ## <div align="center">📱Me📱</div>
 <div align=center>
-    
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <a href="https://instagram.com/seo_young2171">
+
+<a href="ohseoyoung5@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+</a>
+<!--  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->
+<a href="https://instagram.com/seo_young2171">
     <img 
         src="http://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/seo_young2171/"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
