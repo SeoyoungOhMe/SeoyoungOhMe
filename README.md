@@ -7,8 +7,8 @@
 🖥️GDSC (Google Developer Student Clubs Ewha) `2022.03~2022.07`   
 💡UNIS (Start-up Club Ewha) `2022.03~2022.07`   
 🔗EPITA Univ. SUMMER PROGRAM "Secure IoT & Blockchain" `2022.07~2022.08`   
-✏️KISIA 대학생 기자단 3' `2023.06~2023.12`   
-✈️SKT FLY AI Challenger 4' `2023.12~2024.02`   
+✏️KISIA 대학생 기자단 3기 `2023.06~2023.12`   
+✈️SKT FLY AI Challenger 4기 `2023.12~2024.02`   
 🏆Ewha IT Hackathon 2024 `2024.03.15~2024.03.17`   
     
 </div>
