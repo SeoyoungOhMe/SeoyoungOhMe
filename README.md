@@ -4,9 +4,11 @@
 <div align=center>
     
 🔒Cyber Security at Ewha W. Univ. 21'   
-🖥️GDSC (Google Developer Student Clubs Ewha) `2021.03~2021.07`   
-💡UNIS (Start-up Club Ewha) `2021.03~2021.07`   
+🖥️GDSC (Google Developer Student Clubs Ewha) `2022.03~2022.07`   
+💡UNIS (Start-up Club Ewha) `2022.03~2022.07`   
+🔗EPITA Univ. SUMMER PROGRAM "Secure IoT & Blockchain" `2022.07~2022.08`   
 ✈️SKT FLY AI Challenger 4기 `2023.12~2024.02`   
+🏆Ewha IT Hackathon 2024 `2023.12~2024.02`   
     
 </div>
 
