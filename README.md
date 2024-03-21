@@ -9,8 +9,15 @@
 🔗EPITA Univ. SUMMER PROGRAM "Secure IoT & Blockchain" `2022.07~2022.08`   
 ✏️KISIA(한국정보보호산업협회) 대학생 기자단 3기 `2023.06~2023.12`   
 ✈️SKT FLY AI Challenger 4기 `2023.12~2024.02`   
-🏆Ewha IT Hackathon 2024 `2024.03.15~2024.03.17`   
 👥SOPT 대학생 연합 IT 벤처 창업동아리 iOS 파트 34기 `2024.03~`
+    
+</div>
+
+## <div align="center">🏆Awards & Certificate🏆</div>
+<div align=center>
+    
+🏆Ewha IT Hackathon 2024 `2024.03.15~2024.03.17`   
+🗒️AI-900 (Microsoft Azure AI Fundamentals) 
     
 </div>
 
