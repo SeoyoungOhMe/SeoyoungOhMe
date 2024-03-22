@@ -7,9 +7,10 @@
 🖥️GDSC (Google Developer Student Clubs Ewha) `2022.03~2022.07`   
 💡UNIS (Start-up Club Ewha) `2022.03~2022.07`   
 🔗EPITA Univ. SUMMER PROGRAM "Secure IoT & Blockchain" `2022.07~2022.08`   
-✏️KISIA(한국정보보호산업협회) 대학생 기자단 3기 `2023.06~2023.12`   
+✏️KISIA (한국정보보호산업협회) 대학생 기자단 3기 `2023.06~2023.12`   
 ✈️SKT FLY AI Challenger (AI 개발자 양성 프로그램) 4기 `2023.12~2024.02`   
-👥SOPT 대학생 연합 IT 벤처 창업동아리 iOS 파트 34기 `2024.03~`
+👥ICT 융합보안크루 - AI보안 파트 `2023.12~`     
+📱SOPT 대학생 연합 IT 벤처 창업동아리 - iOS 파트 34기 `2024.03~`
     
 </div>
 
