@@ -24,6 +24,7 @@
     
 🏅Ewha IT Hackathon 2024 우수상 `2024.03.15~2024.03.17`   
 🗒️AI-900 (Microsoft Azure AI Fundamentals) 
+🗒️정보처리기사
     
 </div>
 
